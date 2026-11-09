@@ -34,3 +34,9 @@ The page currently uses the contact details and career/project information from 
 - `assets/Abhijeet-Porwal-Resume.pdf` — downloadable CV linked from the hero and contact sections
 
 Before publishing, confirm that you are comfortable making the phone number and email address in the CV publicly accessible. Replace generic project repository links with the exact repository URLs when ready.
+
+
+## Recent update
+- Profile image and downloadable CV are stored in the repository root; the HTML references these root-level files.
+- Project repository links point to the supplied GitHub repositories: Business Operations, Retail Store Analysis, and Car Sales Analysis.
+- The Employee Leave Management item is presented as documentation available on request because no public repository link was supplied.
